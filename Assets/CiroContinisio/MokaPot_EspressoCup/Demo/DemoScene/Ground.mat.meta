@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5e85442be34a48cc896a71bd458688b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 334456
+  packageName: Moka Pot and Espresso Coffee Cup
+  packageVersion: 1.0.0
+  assetPath: Assets/CiroContinisio/MokaPot_EspressoCup/Demo/DemoScene/Ground.mat
+  uploadId: 793782

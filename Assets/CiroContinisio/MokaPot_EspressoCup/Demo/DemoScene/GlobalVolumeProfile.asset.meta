@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2794fed779c5f423690198318d60d118
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 334456
+  packageName: Moka Pot and Espresso Coffee Cup
+  packageVersion: 1.0.0
+  assetPath: Assets/CiroContinisio/MokaPot_EspressoCup/Demo/DemoScene/GlobalVolumeProfile.asset
+  uploadId: 793782
