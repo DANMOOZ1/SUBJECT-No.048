@@ -585,8 +585,8 @@ MonoBehaviour:
   outlineWidth: 7.5
   outlineMode: 0
   highlightSfx: {fileID: 8300000, guid: 05529ead651c74c4aacd59e278ecb540, type: 3}
-  highlightSfxVolume: 1
-  startSfx: {fileID: 8300000, guid: 4de5f66e623adcb4c8ff89ecd0055ef6, type: 3}
+  highlightSfxVolume: 0
+  startSfx: {fileID: 8300000, guid: 10f306f0949594ce08bc74e6f01e4850, type: 3}
   startSfxVolume: 1
   debugUseMainCamera: 0
   ovrRigRoot: {fileID: 7949682198980748549}
@@ -3228,7 +3228,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4820851769216218190, guid: 89dd74c61103b7644ab2dd9d26606ea0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.484
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4820851769216218190, guid: 89dd74c61103b7644ab2dd9d26606ea0, type: 3}
       propertyPath: m_LocalPosition.z

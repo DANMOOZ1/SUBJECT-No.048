@@ -3,7 +3,37 @@ guid: 554fa4c8d5b8f4c78bc1c7ef50927337
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bars
+    second: {fileID: 2100000, guid: ff86ee2616a984e6cbd5e5a30d6b28d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: bf050c4bd6750425894ca98f3cb03270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: object_light1
+    second: {fileID: 2100000, guid: 70e685e75df504fff934dda46250f6b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: podloga
+    second: {fileID: 2100000, guid: f6b156326237e494294c9e0f27ee3387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sufit
+    second: {fileID: 2100000, guid: 66694f671810d48088536d0ea1639557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: db7139838d1774b67b98ddc9dd9ee183, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
