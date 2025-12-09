@@ -1152,8 +1152,7 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Scenes/1.Intro.unity",
-              "Assets/Scenes/2.Main.unity"
+              "Assets/Scenes/1.Intro.unity"
             ],
             "dependencyType": 0,
             "icon": null
