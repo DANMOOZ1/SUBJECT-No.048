@@ -3232,7 +3232,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4820851769216218190, guid: 89dd74c61103b7644ab2dd9d26606ea0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.601
+      value: 1.639
       objectReference: {fileID: 0}
     - target: {fileID: 4820851769216218190, guid: 89dd74c61103b7644ab2dd9d26606ea0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -89186,8 +89186,8 @@ GameObject:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 233192647}
   - {fileID: 1032861667}
+  - {fileID: 233192647}
   - {fileID: 1017461949}
   - {fileID: 866010011}
   - {fileID: 869772010}
