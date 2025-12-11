@@ -11943,9 +11943,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8ede33dfc0079e4e996f867d77656ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::VRExhibitTemplate.MainSequenceManager
-  mainBgm: {fileID: 8300000, guid: 6af26c67bfeb0a746b502a865b003c43, type: 3}
+  mainBgm: {fileID: 8300000, guid: a28753a1fcd4e4a8c92d1883659ef85c, type: 3}
   mainBgmVolume: 1
-  bgmCrossfadeSeconds: 1.5
+  bgmCrossfadeSeconds: 0
   fadeInOnStart: 1
   fadeInDelay: 3
   showOutlineAfterFadeIn: 1
